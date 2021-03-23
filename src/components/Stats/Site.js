@@ -5,11 +5,9 @@ import initialData from '../../data/stats/site';
 
 const Stats = () => {
   const [data, setResponseData] = useState(initialData);
-  // TODO think about persisting this somewhere
   const fetchData = useCallback(async () => {
-    // request must be authenticated if private
     const res = await fetch(
-      'https://api.github.com/repos/mldangelo/personal-site',
+      'https://api.github.com/repos/BrianMLi/site',
     );
     const resData = await res.json();
     setResponseData(
