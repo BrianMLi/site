@@ -25,10 +25,9 @@ const data = [
     value: <Age />,
   },
   {
-    // TODO: Add actual number of countries visited
     key: 'countries',
     label: 'Countries visited',
-    value: 53,
+    value: '~24',
   },
   {
     key: 'location',

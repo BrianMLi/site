@@ -8,7 +8,7 @@ import ContactIcons from '../components/Contact/ContactIcons';
 const Contact = () => (
   <Main
     title="Contact"
-    description="Contact Brian via email @ bli23_lj@hotmail.com"
+    description="Contact Brian via email @ brianmli3598@gmail.com"
   >
     <article className="post" id="contact">
       <header>

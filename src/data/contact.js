@@ -1,3 +1,4 @@
+import { faMediumM } from '@fortawesome/free-brands-svg-icons';
 import { faGithub } from '@fortawesome/free-brands-svg-icons/faGithub';
 import { faInstagram } from '@fortawesome/free-brands-svg-icons/faInstagram';
 import { faLinkedinIn } from '@fortawesome/free-brands-svg-icons/faLinkedinIn';
@@ -20,9 +21,14 @@ const data = [
     icon: faLinkedinIn,
   },
   {
-    link: 'mailto:bli23_lj@hotmail.com',
+    link: 'mailto:brianmli3598@gmail.com',
     label: 'Email',
     icon: faEnvelope,
+  },
+  {
+    link: 'https://brianmli.medium.com/',
+    label: 'Blog',
+    icon: faMediumM,
   },
 ];
 

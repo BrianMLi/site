@@ -1,47 +1,35 @@
-// TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    title: 'Small Personal Website',
+    subtitle: 'Create personal website from scratch',
+    link: 'https://brianmli.github.io/personal-website/',
+    image: '/images/projects/Simple.png',
+    date: '2021-03-05',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'Built from scratch using React. '
+      + 'Uses TypeScript, react-testing-library, '
+      + 'GitHub Pages, and Node.js CI. It was a fun side project to get the rust off after school.',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
+    title: 'Predicting Wine Quality using ML',
+    subtitle: 'A project done on predicting the quality (0-10) of wine based on chemistry',
+    image: '/images/projects/wine.png',
+    date: '2020-11-19',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'Predicted the quality of wine from 0 to 10 based on its '
+      + 'chemistry components. I used Machine Learning to predict. More specifically, I used '
+      + 'LGBM classifier, RandomizedSearchCV for tuning, and CV. Email me if you are curious about more.',
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
+    title: 'Rainbow Six: Siege Strat Book',
+    subtitle: 'Used to help the UBC R6 team',
+    link: 'https://docs.google.com/spreadsheets/d/1kHEZ8dtXA2sSkMT-Mo9rT9YXc5jUSv1_fgS51AcguhU/edit?usp=sharing',
+    image: '/images/projects/Strat.png',
+    date: '2020-07-20',
     desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
-  },
-  {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
-    desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      'Created a strat book for Rainbow Six: Siege. '
+      + 'Used to advise and teach my friends and the UBC R6 team more about '
+      + 'the R6 Proleague meta and strategies.',
   },
 ];
 

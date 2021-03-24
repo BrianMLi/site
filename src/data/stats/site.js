@@ -12,7 +12,7 @@ const DaySinceStart = () => {
   const tick = () => {
     const divisor = 1000 * 60 * 60 * 24;
     const startTime = new Date('2021-03-05T08:24:00');
-    setDay(((Date.now() - startTime) / divisor).toFixed(6));
+    setDay(((Date.now() - startTime) / divisor).toFixed(11));
   };
 
   useEffect(() => {
