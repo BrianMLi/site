@@ -22,9 +22,10 @@ const Index = () => (
         <Link to="/resume">resume</Link>, {' '}
         <Link to="/projects">projects</Link>, {' '}
         view <Link to="/stats">site statistics</Link>, {' '}
-        or <Link to="/contact">contact</Link> me.
+        or <Link to="/contact">contact</Link> me. {' '}
+        Credit to <a rel="noreferrer" target="_blank" href="https://github.com/mldangelo/personal-site">Michael</a> for the template.
       </p>
-      <p> Source available <a rel="noreferrer" target="_blank" href="https://github.com/BrianMLi/site">here</a>.</p>
+      <p> My source code available <a rel="noreferrer" target="_blank" href="https://github.com/BrianMLi/site">here</a>.</p>
     </article>
   </Main>
 );
