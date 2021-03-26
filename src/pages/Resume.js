@@ -22,7 +22,7 @@ const sections = [
   'Volunteer',
   'Skills',
   'Courses',
-  'References',
+  'Transcript',
 ];
 
 const Resume = () => (

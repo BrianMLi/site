@@ -6,7 +6,7 @@ const volunteer = [
     daterange: 'Sep 2018 - Present',
     points: [
       'Hosted and casted the games for the Rainbow Six division each week, raising awareness for the new R6 division through streaming the broadcast',
-      'Created advertisement plans to promote Esports content for the Rainbow Six: Siege community',
+      'Created advertisement plans to promote Esports content for the Rainbow Six: Siege community, increasing average view / club membership by 50%',
       'Placed Top 8 in the Collegiate R6 Tournament as part of the UBC Rainbow Six team',
       'Analyzed strategies of professional and university teams and developed strategies for the UBC team',
     ],
