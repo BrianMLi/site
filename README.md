@@ -1,4 +1,4 @@
-# BrianMLi.github.io/site
+# Brian's Website
 Customized and Adapted Personal React Website
 
 # About
@@ -6,6 +6,8 @@ Customized and Adapted Personal React Website
 
 - Working on it each day to update content until it's complete
 
+- [Link](https://brianmli.github.io/site/) to access the website
+
 # Credits
 * [mldangelo](https://github.com/mldangelo/personal-site) for website base to adapt from!
-* [GitHub/Node.js] for the CI from GitHub Actions
+* My brother for helping me go through my content

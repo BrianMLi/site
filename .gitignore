@@ -1,6 +1,12 @@
 # prefer npm over yarn 
 yarn.lock
 
+# OSX
+.DS_Store
+
+# Nohup
+nohup.out
+
 # eslint
 .eslintcache
 
@@ -41,9 +47,3 @@ public/dist/
 dist/
 tmp/
 build/
-
-# OSX
-.DS_Store
-
-# Nohup
-nohup.out
