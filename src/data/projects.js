@@ -6,7 +6,7 @@ const data = [
     image: '/images/projects/Simple.png',
     date: '2021-03-05',
     desc:
-      'Built from scratch using React. '
+      'Built from scratch using React in a day. '
       + 'Uses TypeScript, react-testing-library, '
       + 'GitHub Pages, and Node.js CI. It was a fun side project to get the rust off after school.',
   },
