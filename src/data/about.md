@@ -15,7 +15,7 @@ At Home (stay safe!) I primarily have worked as a front-end developer in the pas
 
 - In my later elementary years, I was mostly on Skype and Facebook with my friends when I wasn't playing on the Playstation. My favorite games back then were Assassin's Creed, Call of Duty, and RPGs (like Skyrim). Aside from that, I was also playing on the basketball and badminton teams for fun.
 
-- When I was about 12, I also joined the Royal Canadian Army Cadets which helped me train my undisciplined energy into being more productive and patient. I remember always being super excited to join since I loved military history and all things related to it, and the thought of wearing a army uniform was thrilling.
+- When I was about 12, I also joined the Royal Canadian Army Cadets which helped me train my undisciplined energy into being more productive and patient. I remember always being super excited to join since I loved military history and all things related to it, and the thought of wearing an army uniform was thrilling.
 
 - By middle school, I was slowly getting back into PC after my tenure with the Playstation. I remember seeing the technical demo for Crysis 3 and was absolutely blown away with the graphical fidelity and it instantly made me want to build a PC again. 
 
@@ -42,7 +42,7 @@ At Home (stay safe!) I primarily have worked as a front-end developer in the pas
 
 # Fun(ish) facts
 
-- I had an article on React featured on [TowardsDev.com](https://towardsdev.com/)
+- I had an article on React featured on [TowardsDev.com](https://towardsdev.com/using-reacts-useeffect-hook-b345de0afe15)
 - I collect (hoard) a lot of interesting things
 - I love cats but am allergic to them!
 - I gain allergies (power ups?) every few years
@@ -53,9 +53,27 @@ At Home (stay safe!) I primarily have worked as a front-end developer in the pas
 - I suck at video games
 - I listen to kpop and watch korean dramas
 
+# Favorites list
+- Games: Rainbow Six: Siege, Beat Saber, Skyrim, and Divinity Original Sin 2
+- Food: Fried Chicken, Ramen, and Cookies
+- Drinks: Root Beer and anything ice cold
+- Places: Vancouver, Hong Kong, and Korea
+
+# Current computer
+- GPU: EVGA GeForce RTX 2080 Ti FTW3
+- CPU: Intel i9-9900k CPU @ 5.00GHz OC
+- Cooler: NZXT - Kraken x62 Rev 2
+- RAM: G.SKILL TridentZ RGB DDR4 32GB 3600MHz CL16
+- Motherboard: ASUS ROG Strix Z390-E
+- Case: Corsair Obsidian 500D RGB
+- SSD: Samsung 970 EVO 500GB M.2
+- Monitor: Acer Predator XB271HU 27in G-SYNC IPS Monitor 2560X1440 144Hz 4ms
+
 # I dream of
 
 - buying more things.
 - being smarter.
 - living a good life.
 - nothing much.
+
+### Feel free to [contact](https://brianmli.github.io/site/contact) me anytime for more information
