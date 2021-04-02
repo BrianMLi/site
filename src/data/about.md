@@ -5,7 +5,7 @@ Sauder School of Business Graduate with a combined major in Business and Compute
 
 # Currently
 
-At Home (stay safe!) I primarily have worked as a front-end developer in the past, and continue to brush up on my skills every day with Leetcode and Projects. I enjoy collecting, gaming, and baking on the side. I've also recently gotten into keyboards and modding them!
+At Home (stay safe!) I primarily have worked as a front-end developer in the past, and continue to brush up on my skills every day with Leetcode and Projects. I enjoy collecting, gaming, and baking on the side. I've also recently gotten into [keyboards and modding them](https://brianmli.medium.com/the-basics-custom-keyboard-711c6a665cbe)!
 
 # Some history
 
