@@ -22,6 +22,7 @@ const Index = () => (
         <Link to="/resume">resume</Link>, {' '}
         <Link to="/projects">projects</Link>, {' '}
         view <Link to="/stats">site statistics</Link>, {' '}
+        read my <a rel="noreferrer" target="_blank" href="https://brianmli.medium.com/">blog</a>, {' '}
         or <Link to="/contact">contact</Link> me. {' '}
         Credit to <a rel="noreferrer" target="_blank" href="https://github.com/mldangelo/personal-site">Michael</a> for the template.
       </p>
