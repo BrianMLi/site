@@ -42,7 +42,7 @@ At Home (stay safe!) I primarily have worked as a front-end developer in the pas
 
 # Fun(ish) facts
 
-- I had an article on React featured on [TowardsDev.com](https://towardsdev.com/using-reacts-useeffect-hook-b345de0afe15)
+- I am a [writer](https://towardsdev.com/using-reacts-useeffect-hook-b345de0afe15) on [TowardsDev.com](https://towardsdev.com/using-reacts-usestate-hook-44c758e46aa)
 - I collect (hoard) a lot of interesting things
 - I love cats but am allergic to them!
 - I gain allergies (power ups?) every few years
