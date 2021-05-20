@@ -1,5 +1,26 @@
 const data = [
   {
+    title: 'Unity Learn Projects',
+    subtitle: 'Learn more about 2D game development',
+    image: '/images/projects/Game.png',
+    date: '2021-05-19',
+    desc:
+      'Worked on multiple 2D projects like 2D Roguelike / Rudy\'s Adventure. '
+      + 'Learned more about level generation, 2D movement/combat, and animations. '
+      + 'Created using C# in Unity 5 to help kickstart my knowledge in creating my own game.',
+  },
+  {
+    title: 'Custom Keyboard',
+    subtitle: 'Get into more hobbies',
+    link: 'https://imgur.com/a/O5iDWPi',
+    image: '/images/projects/Keyboard.png',
+    date: '2021-04-07',
+    desc:
+      'Finally built my first custom keyboard to customize the feel and sounds to my liking, even opening every switch to lube and film. '
+      + 'KBD67 MKII, Brass Plate, Lubed + Filmed Tangerine Switches, and Cafe Keycaps. '
+      + 'I plan on building several more in the future and will add to the imgur album.',
+  },
+  {
     title: 'Small Personal Website',
     subtitle: 'Create personal website from scratch',
     link: 'https://brianmli.github.io/personal-website/',

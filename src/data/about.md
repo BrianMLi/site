@@ -5,7 +5,10 @@ Sauder School of Business Graduate with a combined major in Business and Compute
 
 # Currently
 
-At Home (stay safe!) I primarily have worked as a front-end developer in the past, and continue to brush up on my skills every day with Leetcode and Projects. I enjoy collecting, gaming, and baking on the side. I've also recently gotten into [keyboards and modding them](https://brianmli.medium.com/the-basics-custom-keyboard-711c6a665cbe)!
+At Home (stay safe!) I primarily have worked as a front-end developer in the past, and continue to brush up on my skills every day with Leetcode and Projects. I enjoy collecting, gaming, and baking on the side. I've also recently gotten into [keyboards and modding them](https://brianmli.medium.com/the-basics-custom-keyboard-711c6a665cbe)! 
+<br />
+<br />
+I've also finally had the extra time to work on a passion of mine: Game Development! I've been working through Unity Learn on projects like Rudy's Adventure and 2D Roguelike as I want to create a 2D RPG game with elements of loot grinding, build variety/planning, and dungeon crawling.
 
 # Some history
 
@@ -43,6 +46,7 @@ At Home (stay safe!) I primarily have worked as a front-end developer in the pas
 # Fun(ish) facts
 
 - I am a [writer](https://towardsdev.com/using-reacts-useeffect-hook-b345de0afe15) on [TowardsDev.com](https://towardsdev.com/using-reacts-usestate-hook-44c758e46aa)
+- I am a [writer](https://medium.com/codex/2d-level-generation-for-unity-c7a8185b846a) on [CodeX](https://medium.com/codex)
 - I collect (hoard) a lot of interesting things
 - I love cats but am allergic to them!
 - I gain allergies (power ups?) every few years
