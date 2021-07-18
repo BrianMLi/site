@@ -16,8 +16,8 @@ const data = [
     image: '/images/projects/Keyboard.png',
     date: '2021-04-07',
     desc:
-      'Finally built my first custom keyboard to customize the feel and sounds to my liking, even opening every switch to lube and film. '
-      + 'KBD67 MKII, Brass Plate, Lubed + Filmed Tangerine Switches, and Cafe Keycaps. '
+      'Been really getting into custom keyboards to customize the feel and sounds to my liking, even opening every switch to lube and film. '
+      + 'gok 7V, Polycarbonate Plate, Lubed + Filmed Gateron Black Ink Switches, and Kon Momo Keycaps. '
       + 'I plan on building several more in the future and will add to the imgur album.',
   },
   {

@@ -58,7 +58,7 @@ I've also finally had the extra time to work on a passion of mine: Game Developm
 - I listen to kpop and watch korean dramas
 
 # Favorites list
-- Games: Rainbow Six: Siege, Beat Saber, Skyrim, and Divinity Original Sin 2
+- Games: Rainbow Six: Siege, Final Fantasy XIV, Beat Saber, Skyrim, and Divinity Original Sin 2
 - Food: Fried Chicken, Ramen, and Cookies
 - Drinks: Root Beer and anything ice cold
 - Places: Vancouver, Hong Kong, and Korea
