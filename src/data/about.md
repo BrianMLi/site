@@ -5,7 +5,10 @@ Sauder School of Business Graduate with a combined major in Business and Compute
 
 # Currently
 
-At Home (stay safe!) I primarily have worked as a front-end developer in the past, and continue to brush up on my skills every day with Leetcode and Projects. I enjoy collecting, gaming, and baking on the side. I've also recently gotten into [keyboards and modding them](https://brianmli.medium.com/the-basics-custom-keyboard-711c6a665cbe)! 
+Working at EA! I was able to join the EA family back in September 2021 and have been enjoying my time there. I work on the DRE FIFA Core Team and primarily use Groovy to develop our Jenkins pipelines and frameworks for running automation. I've done varying work such as setting up automation for their Press and Closed Beta builds, helping manage and fix day-to-day breakages with consoles and VMs, and push for changes to help create a healthier code base.
+<br />
+<br />
+Previously, I primarily have worked as a front-end developer, and continue to brush up on my skills every day with Leetcode and Projects. I enjoy collecting, gaming, and baking on the side. I've also recently gotten into [keyboards and modding them](https://brianmli.medium.com/the-basics-custom-keyboard-711c6a665cbe)! 
 <br />
 <br />
 I've also finally had the extra time to work on a passion of mine: Game Development! I've been working through Unity Learn on projects like Rudy's Adventure and 2D Roguelike as I want to create a 2D RPG game with elements of loot grinding, build variety/planning, and dungeon crawling.
@@ -58,7 +61,7 @@ I've also finally had the extra time to work on a passion of mine: Game Developm
 - I listen to kpop and watch korean dramas
 
 # Favorites list
-- Games: Rainbow Six: Siege, Final Fantasy XIV, Beat Saber, Skyrim, and Divinity Original Sin 2
+- Games: Lost Ark, Path of Exile, Rainbow Six: Siege, Final Fantasy XIV, Beat Saber, and Skyrim
 - Food: Fried Chicken, Ramen, and Cookies
 - Drinks: Root Beer and anything ice cold
 - Places: Vancouver, Hong Kong, and Korea
@@ -71,7 +74,7 @@ I've also finally had the extra time to work on a passion of mine: Game Developm
 - Motherboard: ASUS ROG Strix Z390-E
 - Case: Corsair Obsidian 500D RGB
 - SSD: Samsung 970 EVO 500GB M.2
-- Monitor: Acer Predator XB271HU 27in G-SYNC IPS Monitor 2560X1440 144Hz 4ms
+- Monitor: ALIENWARE (AW2721D) 27" 1440p G-SYNC IPS 240Hz 1ms
 
 # I dream of
 

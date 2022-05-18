@@ -15,6 +15,16 @@ const skills = [
     category: ['Web Development', 'Javascript'],
   },
   {
+    title: 'Groovy',
+    competency: 5,
+    category: ['Languages'],
+  },
+  {
+    title: 'Powershell',
+    competency: 3,
+    category: ['Languages'],
+  },
+  {
     title: 'React',
     competency: 5,
     category: ['Web Development', 'Javascript'],

@@ -22,8 +22,8 @@ const SideBar = () => (
       <p>Hi, I&apos;m Brian. I like playing games!
         I graduated from the Sauder School of Business at the University of British Columbia
         with a Combined Major in Business and Computer Science (Honours).
-        I love to bake sweets and play games, and have previously worked at SAP for 8 months
-        as a Agile Developer.
+        I am currently working at Electronic Arts as an SE on DRE FIFA.
+        Before EA, I worked at SAP as a front-end developer.
       </p>
       <ul className="actions">
         <li>

@@ -1,5 +1,16 @@
 const positions = [
   {
+    company: 'Electronic Arts (EA)',
+    position: 'Software Engineer',
+    link: 'https://www.ea.com/',
+    daterange: 'Sept 2021 - Present',
+    points: [
+      'Currently leading Press/Closed Beta for DRE as the main POC, setting up the automation in Groovy and the infrastructure that will be required over the next several months.',
+      'Created Powershell scripts that improved our response rate by 100% for major breakages in our Jenkins instances, automating the restoration process.',
+      'Developed improvements using Python to streamline running commands and error handling, improving readability and greatly decreasing duplication.',
+    ],
+  },
+  {
     company: 'SAP',
     position: 'Agile Developer (iXp Intern)',
     link: 'https://www.sap.com/canada/index.html',
